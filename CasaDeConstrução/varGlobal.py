@@ -1,0 +1,2 @@
+global pins
+pins = []
